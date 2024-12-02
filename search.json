@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "🔬 Research",
+    "section": "",
+    "text": "Bioinformatics\n\n\nMicrobial Source Tracking\n\n\nEnvironmental Data\n\n\n\nLeptospirosis is a zoonotic disease cause by a bacteria in the Leptospiraceae family. Transmission of the bacteria is facilited when humans come in contact with water contaminated with mammal urine. Taro workers near the He’eia fishpond are an at-risk demographic and surveillance protocol must be develop for disease prevention. \n\n\n\n\n\nDec 8, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIndigenous Knowledge\n\n\nCoral Response\n\n\nSpectrophotometry\n\n\n\nNaupaka Kahakai (Scaevola taccada) is a native Hawaiian plant known in oral history to have medicinal usage. In addition to its anti-microbial properties, Naupaka Kahakai is said to have sun protecting effects. This study aims to investigate the UV-absorbing properties of Naupaka Kahakai and its potential effects on corals. \n\n\n\n\n\nApr 8, 2021\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html#undergraduate-research",
+    "href": "research/index.html#undergraduate-research",
+    "title": "🔬 Research",
+    "section": "",
+    "text": "Bioinformatics\n\n\nMicrobial Source Tracking\n\n\nEnvironmental Data\n\n\n\nLeptospirosis is a zoonotic disease cause by a bacteria in the Leptospiraceae family. Transmission of the bacteria is facilited when humans come in contact with water contaminated with mammal urine. Taro workers near the He’eia fishpond are an at-risk demographic and surveillance protocol must be develop for disease prevention. \n\n\n\n\n\nDec 8, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIndigenous Knowledge\n\n\nCoral Response\n\n\nSpectrophotometry\n\n\n\nNaupaka Kahakai (Scaevola taccada) is a native Hawaiian plant known in oral history to have medicinal usage. In addition to its anti-microbial properties, Naupaka Kahakai is said to have sun protecting effects. This study aims to investigate the UV-absorbing properties of Naupaka Kahakai and its potential effects on corals. \n\n\n\n\n\nApr 8, 2021\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html#posters",
+    "href": "research/index.html#posters",
+    "title": "🔬 Research",
+    "section": "Posters",
+    "text": "Posters"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "🖥 Blogs",
+    "section": "",
+    "text": "RShiny\n\n\nData Visualization\n\n\nOceanography\n\n\n\nIn September 2023, In September 2023, a cruise onboard the R/V Kilo Moana set sails to the West of Oahu to investigate the magnitude of the island Mass Effect. Data on ocean microbes and physical profiles of the ocean were collected from a CTD rosette. \n\n\n\n\n\nNov 30, 2024\n\n\nKeanu Rochette-Yu Tsuen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto\n\n\nQuarto Dashboards\n\n\nData Summary\n\n\n\nThis Tidy Tuesday, I learned how to use Quarto, specifically to make a dashboard. \n\n\n\n\n\nNov 19, 2024\n\n\nKeanu Rochette-Yu Tsuen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRShiny\n\n\nRStudio\n\n\nData Visualization\n\n\n\nIn this project, I learned how to use Shiny to make a Shiny app, using data from Tidy Tuesday. \n\n\n\n\n\nNov 16, 2024\n\n\nKeanu Rochette-Yu Tsuen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nANOVA\n\n\nTukey’s Test\n\n\nData Analysis\n\n\n\nANOVA and Tukey’s test are two common statistical test used to compared and visualize the variation between groups of interest. However, coding for those can be slightly inconvinient. That is why I decided to create a function that executes both. \n\n\n\n\n\nNov 6, 2024\n\n\nKeanu Rochette-Yu Tsuen\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/index.html#personal-projects",
+    "href": "blog/index.html#personal-projects",
+    "title": "🖥 Blogs",
+    "section": "",
+    "text": "RShiny\n\n\nData Visualization\n\n\nOceanography\n\n\n\nIn September 2023, In September 2023, a cruise onboard the R/V Kilo Moana set sails to the West of Oahu to investigate the magnitude of the island Mass Effect. Data on ocean microbes and physical profiles of the ocean were collected from a CTD rosette. \n\n\n\n\n\nNov 30, 2024\n\n\nKeanu Rochette-Yu Tsuen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto\n\n\nQuarto Dashboards\n\n\nData Summary\n\n\n\nThis Tidy Tuesday, I learned how to use Quarto, specifically to make a dashboard. \n\n\n\n\n\nNov 19, 2024\n\n\nKeanu Rochette-Yu Tsuen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRShiny\n\n\nRStudio\n\n\nData Visualization\n\n\n\nIn this project, I learned how to use Shiny to make a Shiny app, using data from Tidy Tuesday. \n\n\n\n\n\nNov 16, 2024\n\n\nKeanu Rochette-Yu Tsuen\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nANOVA\n\n\nTukey’s Test\n\n\nData Analysis\n\n\n\nANOVA and Tukey’s test are two common statistical test used to compared and visualize the variation between groups of interest. However, coding for those can be slightly inconvinient. That is why I decided to create a function that executes both. \n\n\n\n\n\nNov 6, 2024\n\n\nKeanu Rochette-Yu Tsuen\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publication_award.html",
+    "href": "publication_award.html",
+    "title": "⭐️ Publications & Awards ⭐️",
+    "section": "",
+    "text": "Rochette-Yu Tsuen, K., Alegado, R. (2023). Analysis of Environmental Parameters Correlating with the Presence of Leptospiraceae in He’eia Fishpond. [Undergraduate Thesis, University of Hawai’i at Mānoa]. SOEST, Department of Oceanography, GES Theses.\nRochette-Yu Tsuen, K., Chancerelle, Y. & Planes, S. (2022). Learning Coral Survey Methods Through the Polynesia Mana Project at the CRIOBE. Pueo o Kū Journal of Science Technology, Engineering, and Mathematics (STEM), 10-11.\nTsuen, K. R. Y., Lager, C., Ross, M. C., & Hagedorn, M. (2021). Examining the UV-Absorbing Properties of Scaevola taccada (Goodeniaceae) and Its Potential Use as a Sunscreen. Pacific Science, 75(2), 225-236.\nRochette-Yu Tsuen, K., Lager, C., & Hagedorn M. (2020). Analysis of toxic effects of native Hawaiian plant Scaevola taccada on Porites compressa coral fragments. Pueo o Kū Journal of Science Technology, Engineering, and Mathematics (STEM)."
+  },
+  {
+    "objectID": "publication_award.html#publications",
+    "href": "publication_award.html#publications",
+    "title": "⭐️ Publications & Awards ⭐️",
+    "section": "",
+    "text": "Rochette-Yu Tsuen, K., Alegado, R. (2023). Analysis of Environmental Parameters Correlating with the Presence of Leptospiraceae in He’eia Fishpond. [Undergraduate Thesis, University of Hawai’i at Mānoa]. SOEST, Department of Oceanography, GES Theses.\nRochette-Yu Tsuen, K., Chancerelle, Y. & Planes, S. (2022). Learning Coral Survey Methods Through the Polynesia Mana Project at the CRIOBE. Pueo o Kū Journal of Science Technology, Engineering, and Mathematics (STEM), 10-11.\nTsuen, K. R. Y., Lager, C., Ross, M. C., & Hagedorn, M. (2021). Examining the UV-Absorbing Properties of Scaevola taccada (Goodeniaceae) and Its Potential Use as a Sunscreen. Pacific Science, 75(2), 225-236.\nRochette-Yu Tsuen, K., Lager, C., & Hagedorn M. (2020). Analysis of toxic effects of native Hawaiian plant Scaevola taccada on Porites compressa coral fragments. Pueo o Kū Journal of Science Technology, Engineering, and Mathematics (STEM)."
+  },
+  {
+    "objectID": "publication_award.html#awards",
+    "href": "publication_award.html#awards",
+    "title": "⭐️ Publications & Awards ⭐️",
+    "section": "🏆 Awards",
+    "text": "🏆 Awards\n\n🏅 Scholarships and Fellowships 📚\n\n2024-2028: National Science Foundation Graduate Research Fellowship Program (NSF GRFP)\n2021-2023: National Institute of Health Maximizing Access to Research Careers (NIH MARC)\n2021: Undergraduate Research Opportunity Program (UROP), University of Hawai‘i at Mānoa\n2021-2023: National Oceanic and Atmospheric Administration Ernest F. Hollings Undergraduate Scholarship\n2019: Japan Services Student Organization (JASSO): Scholarship for short-term studies in Japan\n2018: Ho‘omanalowai Fellowship – Native Hawaiians and Pacific Islanders in STEM, Kapi’olani Community College\n\n\n\n🏅 Presentation Awards 🎤\n\nOutstanding Poster Presentation – “Environmental Microbiology”, Annual Biomedical Research Conference for Minoritized Students (ABRCMS) (2023), Phoenix, AZ\nBest Poster Presentation – Albert L. Tester Symposium (2023), Honolulu, HI.\nThird Place Undergraduate Poster Presentation – “Ecology and Environmental Science” Emerging Researchers National Conference (2020), Washington, D.C.\nFirst Place Outstanding Undergraduate Student Poster Presentation – “Indigenous Knowledge” Hawai‘i Conservation Conference (2019), Honolulu, HI."
+  },
+  {
+    "objectID": "Media/index.html",
+    "href": "Media/index.html",
+    "title": "📷 Media",
+    "section": "",
+    "text": "Highlights of Keanu’s experience with the NIH MARC program. \n\n\n\n\n\nFeb 1, 2024\n\n\nDeborah Manog Dimaya\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArticle covering Keanu’s college journey. \n\n\n\n\n\nJan 2, 2024\n\n\nUH News\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArticle covering Keanu’s college journey at SOEST. \n\n\n\n\n\nDec 20, 2023\n\n\nMarcie Grabowski\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScholar Blog 2022: Keanu’s Hollings Internship at the Old Woman Creek National Estuarine Research Reserve (OWC NERR). \n\n\n\n\n\nJan 26, 2023\n\n\nKeanu Rochette-Yu Tsuen & NOAA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrench President Emmanuel Macron visited the CRIOBE, French research center based in Moorea, during Keanu’s internship. \n\n\n\n\n\nJul 27, 2021\n\n\nCRIOBE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEcology Club at KCC provides opportunities to students. \n\n\n\n\n\nOct 6, 2020\n\n\nKiana Dulan\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Media/index.html#news-articles",
+    "href": "Media/index.html#news-articles",
+    "title": "📷 Media",
+    "section": "",
+    "text": "Highlights of Keanu’s experience with the NIH MARC program. \n\n\n\n\n\nFeb 1, 2024\n\n\nDeborah Manog Dimaya\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArticle covering Keanu’s college journey. \n\n\n\n\n\nJan 2, 2024\n\n\nUH News\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArticle covering Keanu’s college journey at SOEST. \n\n\n\n\n\nDec 20, 2023\n\n\nMarcie Grabowski\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScholar Blog 2022: Keanu’s Hollings Internship at the Old Woman Creek National Estuarine Research Reserve (OWC NERR). \n\n\n\n\n\nJan 26, 2023\n\n\nKeanu Rochette-Yu Tsuen & NOAA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrench President Emmanuel Macron visited the CRIOBE, French research center based in Moorea, during Keanu’s internship. \n\n\n\n\n\nJul 27, 2021\n\n\nCRIOBE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEcology Club at KCC provides opportunities to students. \n\n\n\n\n\nOct 6, 2020\n\n\nKiana Dulan\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Keanu Rochette-Yu Tsuen",
+    "section": "About me",
+    "text": "About me\n’Ia Orana!\nMy name is Keanu Rochette-Yu Tsuen and I come from the island of Tahiti, French Polynesia.\nI am a graduate student at the University of Hawai’i, pursuing my MS in Biological Oceanography with Dr. Craig Nelson.\nI am currently working on the effects of benthic species community composition on the biogeochemistry of coral reefs in Moorea, French Polynesia. Additionally, I am leading the first synoptic study of biogeochemical parameters in the district of Tautira, Tahiti.\nI am interest in marine microbiology, biogeochemistry and sustainable resource management. I aim to use my scientific experience as a way to connect and collaborate with local communities to develop sustainable management plans for marine resources.\nAs a local Tahitian, it is a privilege to do research in the place I call home."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Keanu Rochette-Yu Tsuen",
+    "section": "Education",
+    "text": "Education\n\nPresent : M.S. Biological Oceanography | University of Hawai’i at Mānoa\n2023 : B.S. Global Environmental Science | University of Hawai’i at Mānoa\n2020 : ASNS Biological Science | Kapi’olani Community College"
+  },
+  {
+    "objectID": "index.html#affiliation",
+    "href": "index.html#affiliation",
+    "title": "Keanu Rochette-Yu Tsuen",
+    "section": "Affiliation",
+    "text": "Affiliation\n\nCurrent\n\nNelson Lab, University of Hawai’i at Mānoa.\nMCR Long Term Ecological Research program, Moorea, French Polynesia.\n\n\n\nPast\n\nME*E Lab, University of Hawai’i at Mānoa.\nNIH MARC-UHM, Univerisity of Hawai’i at Mānoa.\nOld Woman Creek NERR, National Oceanic and Atmospheric Administration (NOAA).\nCRIOBE, Centre National de la Recherche Scientifique, Moorea, French Polynesia.\nHagedorn Lab, Smithsonian Institute of Conservation Biology & Hawai’i Institute of Marine Biology.\nNIH INBRE, University of Hawai’i at Mānoa."
+  }
+]
