@@ -6,7 +6,8 @@ format:
 ---
 ```{r}
 # Load the libraries
-library(tidyverse)
+library(tibble)
+library(dplyr)
 library(gt)
 ```
 ## Column 1
