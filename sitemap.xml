@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://keanuryt.github.io/KRYT_stats.html</loc>
-    <lastmod>2024-12-02T01:12:04.836Z</lastmod>
-  </url>
-  <url>
-    <loc>https://keanuryt.github.io/research/index.html</loc>
-    <lastmod>2024-12-02T01:12:04.856Z</lastmod>
-  </url>
-  <url>
-    <loc>https://keanuryt.github.io/blog/index.html</loc>
-    <lastmod>2024-12-02T01:12:04.844Z</lastmod>
-  </url>
-  <url>
-    <loc>https://keanuryt.github.io/publication_award.html</loc>
-    <lastmod>2024-12-02T01:12:04.856Z</lastmod>
+    <loc>https://keanuryt.github.io/index.html</loc>
+    <lastmod>2024-12-02T01:15:45.959Z</lastmod>
   </url>
   <url>
     <loc>https://keanuryt.github.io/Media/index.html</loc>
-    <lastmod>2024-12-02T01:12:04.840Z</lastmod>
+    <lastmod>2024-12-02T01:15:45.955Z</lastmod>
   </url>
   <url>
-    <loc>https://keanuryt.github.io/index.html</loc>
-    <lastmod>2024-12-02T01:12:04.848Z</lastmod>
+    <loc>https://keanuryt.github.io/publication_award.html</loc>
+    <lastmod>2024-12-02T01:15:45.967Z</lastmod>
+  </url>
+  <url>
+    <loc>https://keanuryt.github.io/blog/index.html</loc>
+    <lastmod>2024-12-02T01:15:45.959Z</lastmod>
+  </url>
+  <url>
+    <loc>https://keanuryt.github.io/research/index.html</loc>
+    <lastmod>2024-12-02T01:15:45.967Z</lastmod>
   </url>
 </urlset>
