@@ -1,0 +1,90 @@
+---
+title: "Keanu's Summary"
+format: 
+  dashboard:
+    orientation: columns
+---
+```{r}
+# Load the libraries
+library(tidyverse)
+library(gt)
+```
+## Column 1
+
+### Row 3 {height="30%"}
+```{r}
+#| content: valuebox
+#| title: Affiliations
+#| icon: clipboard-check
+#| color: info #"#1E88E5"
+list(value= paste("Nelson Lab"))
+```
+
+### Row 1 {height="30%"}
+```{r}
+#| content: valuebox
+#| title: Number of Publications
+#| icon: journal-text
+#| color: primary #"#43A047"
+list(value= paste(4))
+```
+
+```{r}
+#| content: valuebox
+#| title: Awards
+#| icon: trophy
+#| color: "#E5B80B"
+list(value= paste(6))
+```
+
+```{r}
+#| content: valuebox
+#| title: Scholarship Awarded
+#| icon: bookmark-star
+#| color: primary #"#FB8C00"
+list(value= paste(4))
+```
+
+### Row 2 {height="40%"}
+```{r}
+#| content: valuebox
+#| title: Presentations Given 
+#| icon: chat-left-text
+#| color: secondary #"#2196F3"
+list(value= paste(24))
+```
+
+```{r}
+#| content: valuebox
+#| title: Scientific Projects
+#| icon: clipboard-data
+#| color: secondary #"#5C6BC0"
+list(value= paste(13))
+```
+
+
+
+## Column 2 
+
+### Row 1 {height="50%"}
+
+![Latest Work](images/last-poster.jpeg)
+
+### Row 2 {height="50%"}
+
+```{r}
+#| title: Research Skills Summary
+tibble(Skills = c("Small Boat Operation", "Sterivex Cracking", "DNA Extraction", "PCR & qPCR", "Research Vessel Exp", "R Shiny", "Quarto Dashboard", "Quarto Website", "Quarto Reports and Presentation"),
+       Proficiency = c("Advanced", "Advanced", "Advanced", "Intermediate", "Intermediate", "Advanced", "Advanced", "Advanced", "Intermediate")) %>% gt(rowname_col = "Skills") %>% 
+  tab_header(title = "Field and Computational Skills")  
+
+```
+
+
+
+
+
+
+
+
+

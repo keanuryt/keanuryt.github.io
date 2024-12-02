@@ -1,0 +1,18 @@
+---
+title: "🖥 Blogs"
+listing: 
+  - id: Tidy_Tuesday
+    contents: "Tidy_Tuesday/tidy_tuesday.yml"
+    type: default
+    image-align: left
+    sort: "date desc"
+---
+
+## 📊 Personal Projects
+
+:::{#Tidy_Tuesday}
+:::
+
+
+
+

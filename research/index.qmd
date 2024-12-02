@@ -1,0 +1,22 @@
+---
+title: "🔬 Research"
+listing: 
+  - id: undergrad
+    contents: "undergrad/undergrad_research.yml"
+    type: default
+    image-align: left
+    sort: "date desc"
+  - id: posters
+    contents: "posters/*.pdf"
+
+---
+
+## Undergraduate Research
+
+:::{#undergrad}
+:::
+
+## Posters
+:::{#undergrad}
+:::
+

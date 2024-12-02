@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Home"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: "© Keanu Rochette-Yu Tsuen 2024. | All rights reserved. | Made with ❤️ and Quarto"
+  navbar:
+    logo: images/KRYT_logo_round.jpeg
+    logo-alt: KRYT Logo with Mt Rotui and corals
+    title: "Keanu Rochette"
+    left:
+      - text: Glimpse
+        href: KRYT_stats.qmd
+      - text: Research
+        href: research/index.qmd
+      - text: Publications & Awards
+        href: publication_award.qmd
+      - text: Blogs
+        href: blog/index.qmd
+      - text: Media
+        href: Media/index.qmd
+    tools:
+      - icon: github
+        href: https://github.com/keanuryt
+      
+format:
+  html:
+    mainfont: "helvetica"
+    theme: [cerulean, styles.scss]
+

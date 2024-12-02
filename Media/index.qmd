@@ -1,0 +1,14 @@
+---
+title: "📷 Media"
+listing: 
+  - id: Media
+    contents: "media.yml"
+    type: default
+    image-align: left
+    sort: "date desc"
+---
+
+## 📰 News Articles
+
+::: {#Media}
+:::
