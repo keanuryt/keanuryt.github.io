@@ -10,8 +10,6 @@ website:
     logo-alt: KRYT Logo with Mt Rotui and corals
     title: "Keanu Rochette"
     left:
-      - text: Glimpse
-        href: KRYT_stats.qmd
       - text: Research
         href: research/index.qmd
       - text: Publications & Awards
